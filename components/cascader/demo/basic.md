@@ -1,8 +1,8 @@
 ---
 order: 0
 title:
-  zh-CN: 基本
-  en-US: Basic
+  111: 基本
+  222: Basic
 ---
 
 ## zh-CN
